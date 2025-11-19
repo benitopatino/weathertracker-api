@@ -7,8 +7,4 @@
     <RootNamespace>weatherapp_api</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include=".github\workflows\build-and-deploy.yaml" />
-  </ItemGroup>
-
 </Project>
